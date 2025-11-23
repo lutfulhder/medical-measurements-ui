@@ -13,10 +13,11 @@ This UI provides a minimal interface for:
 ✔ Demonstrating how a client application would consume the API
 
 Running the UI Locally
+```bash
 cd medical-measurements-ui
 npm install
 npm run dev
-
+```
 
 The application will start at:
 
